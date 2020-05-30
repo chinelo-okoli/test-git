@@ -1,2 +1,2 @@
 This is a test
-This is a conflicting test
+This is some test 2
