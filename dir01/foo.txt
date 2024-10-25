@@ -4,3 +4,4 @@ Another rebase test on master
 Yet another rebase test on master
 Yet more rebase test on master
 This is a merge test on master
+Yet again rebase test on master
