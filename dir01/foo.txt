@@ -1,3 +1,4 @@
 This is a test
 This is a rebase test on master
 Another rebase test on master
+Yet another rebase test on master
