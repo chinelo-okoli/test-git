@@ -7,4 +7,4 @@ Yet another rebase test on dev2
 Yet again rebase test on dev2
 Another merge test on dev2
 Conflicting rebase test on dev3
-Conflicting rebase test on master
+Conflicting rebase test on dev4 and master
